@@ -1,5 +1,7 @@
 # Connect Four Move Prediction Using Machine Learning
 
+This project was developed as part of a Kaggle competition focused on predicting the optimal next move in Connect Four.
+
 A supervised machine learning approach to predicting the optimal next move in Connect Four using feature engineering and ensemble models.
 
 ---
