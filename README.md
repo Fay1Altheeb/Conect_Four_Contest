@@ -138,13 +138,6 @@ CatBoost demonstrated the best generalization performance.
 
 ---
 
-## Project Structure
 
-```
-data/          # Dataset files
-src/           # Model training scripts
-notebooks/     # Experiments and analysis
-docs/          # Full project report
-```
 
 ---
